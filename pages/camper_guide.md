@@ -18,12 +18,12 @@ display-title: false
 # At and Around the Camp
 * **Transportation to the playa:** Don’t have a vehicle pass to the burn? No worries. Use the Burner Express.
 * **Camp Events:** The camp will be hosting a series of events during the week. If you’re not working the event, you don’t have to be there, but we’d love for you to join the fun. If you are working the event, please remember to always check ID if alcohol is involved.
-* **Trash / Can Recycling / Compost / Burnables:** We’ll have separate cans in camp for each of these. Please compress anything you put in them as much as possible. Recyclables will be taken to the recycling camp, and compostable/burnable materials will go in the burn barrel. Anybody caught throwing non-burnable items in the burn barrel will be obliged to sit on it while it is lit and recite the 10 Principles from memory. You have been warned.
+* **Trash / Can Recycling / Compost / Burnables:** We’ll have separate cans in camp for each of these. Please compress anything you put in them as much as possible - we need to leave no trace, which means packing everything out at the end!
 * **Departure:** By the end of the week, everybody is tired and just wants to leave. Please help tear down structures per the setup and teardown checklist so you aren’t leaving the last two people on playa with an insane amount of work. Departure process for each person should be:
   * Check lost and found for personal items
   * Take 1 bag of trash and 1 bag of recycling per car (or per person for Burner Express)
   * Do a final, thorough moop sweep of your tent area
-* **Ice, Ice, Baby:** If you expect to want ice for your cooler or beverages, bring cash. [Price is set by Arctica](https://survival.burningman.org/city-infrastructure/on-playa-resources/) and is $10 for a 16-pound crushed bag or $5 for a 10-pound block bag for 2024. Cubed ice lasts longer, crushed is more convenient. Pro tip: bring large plastic freezer bags to keep your ice in; when it melts, you end up with ice-cold clean drinking water. Cheers! Ice runs will be incorporated into camp work shifts.
+* **Ice, Ice, Baby:** If you expect to want ice for your cooler or beverages, bring cash. [Prices are set by Arctica](https://survival.burningman.org/city-infrastructure/on-playa-resources/). Cubed ice lasts longer, crushed is more convenient. Pro tip: bring large plastic freezer bags to keep your ice in; when it melts, you end up with ice-cold clean drinking water. Cheers! Ice runs will likely be incorporated into camp work shifts.
 * **Food:** Lunch is fend-for-yourself (don’t worry, there are lots of places to find food on your adventures during the day). Snacks are also BYO, but we ask that everyone bring beverages and snacks to share with the camp. Bring anything you might enjoy, from cheese balls to celery and peanut butter to cheap beer to fine champagne. Salty snacks are amazing on playa.
 
 # Friendly Mom Reminders
@@ -43,10 +43,36 @@ Burning Man is a beautiful place of peace, love, and sting operations. Yes, ther
 * **Car searches:** Coming into Burning Man is the most common time to get stopped and searched. They’ll pull you over and if you consent they may empty your car on playa. To avoid this:
   * Don’t give them a reason to pull you over: stay under the speed limit, make sure your license plate is not blocked by your bike rack, and keep it properly lit.
   * If they ask to search your car, politely decline (“I do not consent to a search. Am I being detained or am I free to go?”). Do not consent to a search.
-  * [Know your rights and what to say.](https://www.aclunc.org/our-work/know-your-rights/your-rights-and-police)
 * **Alcohol:** Anybody serving alcohol in any capacity to any non-camp member must see proof of legal drinking age for everyone they are serving—yes, even if they’re cute, even if they’re like 80. If you’re of legal drinking age, you can drink all over the place, but don’t be an asshole, and remember to bring some form of ID on your adventures—a driver’s license or a copy taped to your cup usually works well.
 * **Substances:**
   * Pot is legal in California. Pot is legal in Nevada. Pot is **not legal** federally, and Burning Man is on federal land. Do not consume or share pot in plain sight outside of camp.
 * **Additional Resources**
-  * Burning Man’s recommendations on how to relate to law enforcement.
-  * Seriously watch this: https://www.youtube.com/watch?v=d-7o9xYp7eE
+  * [Burning Man Survival Guide: Law Enforcement](https://survival.burningman.org/law-enforcement/)
+
+
+# Additional Resources
+
+
+#### The Essentials
+* [Ticket Information & Main Sale](https://tickets.burningman.org/)
+* [The 10 Principles](https://burningman.org/culture/philosophical-center/10-principles/) of Burning Man
+* [Survival Guide](https://survival.burningman.org/)
+* [First-Timer's Guide](https://burningman.org/event/preparation/first-timers-guide/)
+
+#### Preperation & Packing
+* One [Packing List](https://burnerlist.org/) (of many out there)
+* [Matter Out of Place (MOOP)](https://burningman.org/black-rock-city/preparation/leaving-no-trace/moop/)
+* [Resource on Playa](https://survival.burningman.org/city-infrastructure/on-playa-resources/)
+
+#### Getting There
+* [Recommended Last Gas Fillup (Loves)](https://maps.app.goo.gl/9P3UVMJZvUXWDfUeA)
+* [Burner Express Bus](https://burnerexpress.burningman.org/)
+* [BMan Traffic Twitter](https://twitter.com/BManTraffic)
+
+#### Discovery
+* [The Playa Events Calendar](https://playaevents.burningman.org/)
+* [The Jackrabbit Speaks](https://burningman.org/news/jrs/): official newsletter
+
+#### Community & Support
+* [ePlaya Forums](https://eplaya.burningman.org/)
+* [Black Rock Rangers](https://rangers.burningman.org/)
