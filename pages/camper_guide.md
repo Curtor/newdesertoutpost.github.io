@@ -62,16 +62,17 @@ Burning Man is a beautiful place of peace, love, and sting operations. Yes, ther
 #### Preperation & Packing
 * One [Packing List](https://burnerlist.org/) (of many out there)
 * [Matter Out of Place (MOOP)](https://burningman.org/black-rock-city/preparation/leaving-no-trace/moop/)
-* [Resource on Playa](https://survival.burningman.org/city-infrastructure/on-playa-resources/)
+* [Resources on Playa](https://survival.burningman.org/city-infrastructure/on-playa-resources/)
 
 #### Getting There
-* [Recommended Last Gas Fillup (Loves)](https://maps.app.goo.gl/9P3UVMJZvUXWDfUeA)
 * [Burner Express Bus](https://burnerexpress.burningman.org/)
 * [BMan Traffic Twitter](https://twitter.com/BManTraffic)
+* [Recommended Last Gas Fillup (Loves)](https://maps.app.goo.gl/9P3UVMJZvUXWDfUeA)
 
 #### Discovery
 * [The Playa Events Calendar](https://playaevents.burningman.org/)
-* [The Jackrabbit Speaks](https://burningman.org/news/jrs/): official newsletter
+* [The Jackrabbit Speaks](https://burningman.org/news/jrs/) official newsletter
+* [High-Res Aerial Event Images](https://www.gigapan.com/gigapans/236024)
 
 #### Community & Support
 * [ePlaya Forums](https://eplaya.burningman.org/)
