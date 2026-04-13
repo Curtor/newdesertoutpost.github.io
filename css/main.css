@@ -810,3 +810,32 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+.cta-button {
+  background-color: #355070;
+  color: white !important;
+  padding: 18px 35px;
+  font-size: 1.3rem;
+  font-weight: bold;
+  border-radius: 8px;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.3s ease; /* Smooth transition for the 'lift' */
+  
+  /* Soft Depth Shadow */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.cta-button:hover {
+  background-color: #45668e; /* Slightly lighter shade */
+  transform: translateY(-2px); /* Physical lift effect */
+  text-decoration: none;
+  
+  /* Stronger shadow on hover to simulate height */
+  box-shadow: 0 7px 14px rgba(0, 0, 0, 0.15), 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+.cta-button:active {
+  transform: translateY(1px); /* Sinks slightly when clicked */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}

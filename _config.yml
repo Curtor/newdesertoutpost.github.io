@@ -23,7 +23,6 @@ description: An eclectic Burning Man outpost for wanderers seeking adventure.
 
 # List of links in the navigation bar
 navbar-links:
-  Who we are: "pages/about"
   Camp with us: "pages/join"
   Guide: "pages/camper_guide"
 
