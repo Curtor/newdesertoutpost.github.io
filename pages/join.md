@@ -11,6 +11,14 @@ New Desert Outpost is a diverse collection of people from many backgrounds and a
 
 Learn more about us and the camp in our [Camper Guide](/pages/camper_guide/).
 
+
+<br>
+<div style="text-align: center;">
+  <img src="/img/camp/frontage.png" alt="Aerial photo of the camp" style="max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+</div>
+<br>
+
+
 # The Basics: Sexy Camp Amenities
 
 What can you expect while camping with us?

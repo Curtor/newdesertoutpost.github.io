@@ -14,6 +14,12 @@ display-title: false
 * Because we’re young and small, the whole camp needs to share the work of day-to-day logistics and interactive events.
 
 
+<br>
+<div style="text-align: center;">
+  <img src="/img/camp/aerial_photo.png" alt="Aerial photo of the camp" style="max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+</div>
+<br>
+
 
 # At and Around the Camp
 * **Transportation to the playa:** Don’t have a vehicle pass to the burn? No worries. Use the Burner Express.
@@ -25,6 +31,7 @@ display-title: false
   * Do a final, thorough moop sweep of your tent area
 * **Ice, Ice, Baby:** If you expect to want ice for your cooler or beverages, bring cash. [Prices are set by Arctica](https://survival.burningman.org/city-infrastructure/on-playa-resources/). Cubed ice lasts longer, crushed is more convenient. Pro tip: bring large plastic freezer bags to keep your ice in; when it melts, you end up with ice-cold clean drinking water. Cheers! Ice runs will likely be incorporated into camp work shifts.
 * **Food:** Lunch is fend-for-yourself (don’t worry, there are lots of places to find food on your adventures during the day). Snacks are also BYO, but we ask that everyone bring beverages and snacks to share with the camp. Bring anything you might enjoy, from cheese balls to celery and peanut butter to cheap beer to fine champagne. Salty snacks are amazing on playa.
+
 
 # Friendly Mom Reminders
 
@@ -72,6 +79,7 @@ Burning Man is a beautiful place of peace, love, and sting operations. Yes, ther
 #### Discovery
 * [The Playa Events Calendar](https://playaevents.burningman.org/)
 * [The Jackrabbit Speaks](https://burningman.org/news/jrs/) official newsletter
+* [iBurn app](https://iburnapp.com/)
 * [High-Res Aerial Event Images](https://www.gigapan.com/gigapans/236024)
 
 #### Community & Support
