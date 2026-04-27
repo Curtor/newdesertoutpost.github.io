@@ -52,7 +52,7 @@ It’s important that we create a community — not just a camp — and every ca
 
 # Camp Dues
 
-Camp dues are determined each year based on the expected camp size, [camp amenities](#sexy-camp-amenities), and our camp gift to the playa. We should have an exact number on this soon.
+Camp dues are determined each year based on the expected camp size, camp amenities, and our camp gift to the playa. We should have an exact number on this soon.
 
 <div style="text-align: center; margin: 60px 0;">
     <a href="https://forms.gle/1cGgknzsocvrKgR28" class="cta-button">
